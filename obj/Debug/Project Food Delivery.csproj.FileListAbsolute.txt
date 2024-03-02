@@ -1,0 +1,15 @@
+C:\Users\Radu\Desktop\Project Food Delivery\bin\Debug\Project Food Delivery.exe.config
+C:\Users\Radu\Desktop\Project Food Delivery\bin\Debug\Project Food Delivery.exe
+C:\Users\Radu\Desktop\Project Food Delivery\bin\Debug\Project Food Delivery.pdb
+C:\Users\Radu\Desktop\Project Food Delivery\obj\Debug\Project Food Delivery.csprojAssemblyReference.cache
+C:\Users\Radu\Desktop\Project Food Delivery\obj\Debug\Project_Food_Delivery.Properties.Resources.resources
+C:\Users\Radu\Desktop\Project Food Delivery\obj\Debug\Project Food Delivery.csproj.GenerateResource.cache
+C:\Users\Radu\Desktop\Project Food Delivery\obj\Debug\Project Food Delivery.csproj.CoreCompileInputs.cache
+C:\Users\Radu\Desktop\Project Food Delivery\obj\Debug\Project Food Delivery.exe
+C:\Users\Radu\Desktop\Project Food Delivery\obj\Debug\Project Food Delivery.pdb
+C:\Users\Radu\Desktop\Project Food Delivery\obj\Debug\Project_Food_Delivery.CustomersForm.resources
+C:\Users\Radu\Desktop\Project Food Delivery\obj\Debug\Project_Food_Delivery.OrdersForm.resources
+C:\Users\Radu\Desktop\Project Food Delivery\obj\Debug\Project_Food_Delivery.LiveryForm.resources
+C:\Users\Radu\Desktop\Project Food Delivery\obj\Debug\Project_Food_Delivery.Update_Forms.UpdateCustomersDataGridView.resources
+C:\Users\Radu\Desktop\Project Food Delivery\obj\Debug\Project_Food_Delivery.Update_Forms.UpdateLiveryDataGridView.resources
+C:\Users\Radu\Desktop\Project Food Delivery\obj\Debug\Project_Food_Delivery.Update_Forms.UpdateOrdersDataGridView.resources
